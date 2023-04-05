@@ -99,4 +99,16 @@ window.onload = function () {
     loadQuestion(current);
     loadAnswers(current);
     
+    // This function was added in in order to experiment with functions that return functions
+
+  //   function operations(num1, num2) {
+  //       sum = num1 + num2;
+  //       dif = num1 - num2;
+  //       mult = num1*num2;
+  //       exp = num1**num2;
+  //   }
+
+  // result = operations(11,2);  
+
   };
+
